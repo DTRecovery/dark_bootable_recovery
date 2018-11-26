@@ -1,3 +1,3 @@
-**Team Win Recovery Project (TWRP)**
+# DarkThur Recovery Project (DTRP)
 
-You can find a compiling guide [here](http://forum.xda-developers.com/showthread.php?t=1943625 "Guide").
+  See building instrucion in [Manifest Repository](https://github.com/DTRecovery/dark_manifest)
